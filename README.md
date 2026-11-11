@@ -1,11 +1,11 @@
-# Lenis plugin for Claude Code
+# Claude Code plugins: Lenis + React Bits
 
-Install (unzip first, then inside Claude Code):
+Run in Claude Code, one line at a time:
 
-    /plugin marketplace add /path/to/lenis-plugin
+    /plugin marketplace add topfloorlord/lenis-plugin
     /plugin install lenis@lenis-skills
+    /plugin install react-bits@lenis-skills
 
-Or push this folder to a GitHub repo and use:
+Already added the marketplace? Refresh it first:
 
-    /plugin marketplace add <your-github-user>/<repo>
-    /plugin install lenis@lenis-skills
+    /plugin marketplace update lenis-skills

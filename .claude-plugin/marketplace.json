@@ -1,11 +1,18 @@
 {
   "name": "lenis-skills",
-  "owner": { "name": "harjot" },
+  "owner": {
+    "name": "harjot"
+  },
   "plugins": [
     {
       "name": "lenis",
       "source": "./plugins/lenis",
       "description": "Lenis smooth scroll skill: setup, options, GSAP ScrollTrigger sync, React, snap, nested scroll, troubleshooting."
+    },
+    {
+      "name": "react-bits",
+      "source": "./plugins/react-bits",
+      "description": "React Bits skill: browse 215+ free animated React components and install them with the shadcn or jsrepo CLI."
     }
   ]
 }

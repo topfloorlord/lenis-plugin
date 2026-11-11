@@ -1,0 +1,6 @@
+{
+  "name": "react-bits",
+  "version": "1.0.0",
+  "description": "Teaches Claude Code to find and install React Bits (reactbits.dev) animated React components, text animations and backgrounds via the shadcn/jsrepo CLI.",
+  "license": "MIT"
+}
