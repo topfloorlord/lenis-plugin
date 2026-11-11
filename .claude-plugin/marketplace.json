@@ -1,0 +1,11 @@
+{
+  "name": "lenis-skills",
+  "owner": { "name": "harjot" },
+  "plugins": [
+    {
+      "name": "lenis",
+      "source": "./plugins/lenis",
+      "description": "Lenis smooth scroll skill: setup, options, GSAP ScrollTrigger sync, React, snap, nested scroll, troubleshooting."
+    }
+  ]
+}
