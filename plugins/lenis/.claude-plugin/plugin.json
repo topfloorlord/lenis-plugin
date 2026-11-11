@@ -1,6 +1,6 @@
 {
   "name": "lenis",
-  "version": "1.0.0",
-  "description": "Teaches Claude Code to use Lenis (darkroomengineering/lenis) smooth scroll correctly, including GSAP ScrollTrigger integration.",
+  "version": "1.1.0",
+  "description": "Lenis smooth scroll + React Bits animated React components skills for Claude Code.",
   "license": "MIT"
 }

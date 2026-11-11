@@ -7,12 +7,8 @@
     {
       "name": "lenis",
       "source": "./plugins/lenis",
-      "description": "Lenis smooth scroll skill: setup, options, GSAP ScrollTrigger sync, React, snap, nested scroll, troubleshooting."
-    },
-    {
-      "name": "react-bits",
-      "source": "./plugins/react-bits",
-      "description": "React Bits skill: browse 215+ free animated React components and install them with the shadcn or jsrepo CLI."
+      "description": "Lenis smooth scroll + React Bits animated components skills.",
+      "version": "1.1.0"
     }
   ]
 }
